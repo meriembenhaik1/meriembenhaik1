@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm meriem benhaik</h1>
 <h3 align="center"> CS student in University of Science and Technology Houari Boumedian (USTHB) </h3>
 
-- 🌱 I’m currently learning **Java , python , javaScript , mySql( and some frameworks )**
+- 🌱 I’m currently learning **Java ; python, Sql**
 
 - 📫 How to reach me **meriembenhaik66@gmail.com**
 
