@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200" alt="Cute girly animation"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### 🌸 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-ff66cc?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edg_informatique/)
-[![Website](https://img.shields.io/badge/EDG%20Informatique-eec0f3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://edg-informatique--kohl.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAac9fUH3TkulQM_ACd2O7OBY5mT2sGrNQPrVpJzhsJPf_QaY3KKDT_xMDAMl3w_aem_ueaMIOM3pV4MNoUoo6W99g)
+[![Website](https://img.shields.io/badge/EDG%20Informatique-eec0f3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://edg-informatique--kohl.vercel.app)
 
 ---
 
