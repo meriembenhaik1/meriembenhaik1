@@ -6,9 +6,6 @@
   Building structured, efficient and high-quality digital solutions
 </p>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNsNzRvZDFwOHhkY3QxcGhrNDI0eTdydGJ1dGNqMnFtZXdqMTFvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" width="200" alt="Animation"/>
-</p>
 
 ---
 
