@@ -1,7 +1,7 @@
 <h1 align="center">Benhaik Meriem</h1>
 
 <p align="center">
-  Founder & Marketing Leader at <strong>EDG Informatique</strong> and <strong>EDF Agency</strong><br/>
+  Founder & Marketing Leader at <strong>EDG Informatique</strong> and <strong>EDG Agency</strong><br/>
   Full Stack Developer<br/>
   Building structured, efficient and high-quality digital solutions
 </p>
