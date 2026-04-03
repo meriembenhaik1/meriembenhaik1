@@ -14,7 +14,7 @@
 
 ### About Me
 
-- Founder and Marketing Leader at EDG Informatique and EDF Agency  
+- Founder and Marketing Leader at EDG Informatique and EDG Agency  
 - Full Stack Developer focused on scalable and maintainable solutions  
 - Strong interest in UI/UX design and product strategy  
 - Supporting businesses and e-commerce platforms in their digital growth  
